@@ -13,7 +13,7 @@
 
 ## Project Description
 
-In this third project of the *Data Analytics Bootcamp*, we will work in a real Business case where we will be asked to create a **song recommendator* based in the user's song preferences, updating the current recommendator of the Company *Gnod*, based on preferences by artist. 
+In this third project of the *Data Analytics Bootcamp*, we will work in a real Business case where we will be asked to create a *song recommendator* based in the user's song preferences, updating the current recommendator of the Company *Gnod*, based on preferences by artist. 
 
 Moreover, we will be asked to show the proposition to the company CEO in a *recorded presentation*.
 
